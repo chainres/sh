@@ -17,3 +17,4 @@ cd ..
 ls -l /usr/local
 
 rm -rf install_tdlib_centos7.sh
+rm -rf td
